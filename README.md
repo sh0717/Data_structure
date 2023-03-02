@@ -1,6 +1,6 @@
 # Data_structure
 
-this is professor shim's  data structure homework in 2022-2 in SNU
+this is professor shim's  data structure homework in SNU
 
 making interpreter for scheme language 
 
